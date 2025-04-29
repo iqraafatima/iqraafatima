@@ -37,7 +37,7 @@ ___
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
   </a> &nbsp;&nbsp;&nbsp;
   
-  <a href="syedaaiqraa1308@gmail.com" target="blank">
+  <a href="mailto:syedaaiqraa1308@gmail.com" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="25" width="35" />
   </a>
 </p>
