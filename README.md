@@ -31,8 +31,15 @@ ___
 ---
 
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/iqra-fatima-umang-b2852a237" target="blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
+  </a> &nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:syedaaiqraa1308@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" alt="Gmail" height="25" width="35" />
+  </a>
+</p>
 
-- [LinkedIn](www.linkedin.com/in/iqra-fatima-umang-b2852a237)
-- [Email](mailto:syedaaiqraa1308@gmail.com)
 
