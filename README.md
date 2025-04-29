@@ -33,6 +33,6 @@ ___
 
 ### Connect with me:
 
-- [LinkedIn](www.linkedin.com/in/iqra-fatima-umang-b2852a237/)
+- [LinkedIn](www.linkedin.com/in/iqra-fatima-umang-b2852a237)
 - [Email](mailto:syedaaiqraa1308@gmail.com)
 
